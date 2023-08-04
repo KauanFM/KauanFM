@@ -3,6 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanFM&show_icons=true&theme=nightowl&locale=pt-br&include_all_commits=true&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanFM&layout=compact&theme=nightowl&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
+## 
+ ## Principais Tecnologias
+
 <div style="display: inline_block"><br>
   <img align="center" alt="JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div>
