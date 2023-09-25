@@ -1,7 +1,7 @@
 ## Olá, meu nome é Kauan 👋🏽
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanFM&show_icons=true&theme=nightowl&locale=pt-br&include_all_commits=true&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanFM&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanFM&show_icons=true&theme=transparent&locale=pt-br&include_all_commits=true&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanFM&layout=compact&theme=transparent)
 
 ## 
   <B> Principais Tecnologias 💯 </B>
