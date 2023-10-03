@@ -1,6 +1,6 @@
 ## Olá, meu nome é Kauan 👋🏽
 
- ##
+
   <div align="center">
     <a href="https://github.com/KauanFM">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanFM&show_icons=true&theme=transparent"/>
