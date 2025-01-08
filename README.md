@@ -1,7 +1,6 @@
-  <h1>Hi, my name is Kauan 👋🏽 I'm 19 years old and I'm currently a junior systems development assistant at @PlurisMidia.</h1>
+<h1>Main Technologies 💯</h1>
  
-  <B> Main Technologies 💯 </B> <br> <br>
-  <B> Languages: </B>
+<B> Languages: </B>
   
 <div>
   <img align="center" alt="Rafa-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -41,7 +40,7 @@
 </div>
 
  ##
-  <B> My Networks 🕸 </B>
+<B> My Networks 🕸 </B>
 
 <div> 
   <a href="https://www.youtube.com/channel/UCFI1OmwL-IOgWWELFUg8g3w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
