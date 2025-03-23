@@ -2,42 +2,39 @@
  
 <B> Languages: </B>
   
-<div>
-  <img align="center" alt="Rafa-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-</div> <br>
 
-  <B> Frameworks/Ecosystems: </B>
+[![My Skills](https://skillicons.dev/icons?i=java,cs,ruby,swift,py,ts,js,html,css,sass)](https://skillicons.dev)
 
-<div>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-</div> <br>
+
+<B> Frameworks/Ecosystems: </B>
+  
+[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,angular)](https://skillicons.dev)
+
+<B> Dependency Manager: </B>
+
+[![My Skills](https://skillicons.dev/icons?i=maven,gradle)](https://skillicons.dev)
+
+<B> Clouds: </B>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
 
 <B> Databases: </B>
 
-<div>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
-</div> <br>
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+<img alt="Rafa-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+
+<B> Operational Systems: </B>
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+
+<B> Repos: </B>
+
+[![My Skills](https://skillicons.dev/icons?i=git,bitbucket,github)](https://skillicons.dev)
 
 <B> Main Softwares: </B>
 
-<div>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=idea,eclipse,visualstudio,vscode,postman,docker)](https://skillicons.dev)
+<img alt="Rafa-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg">
 
  ##
 <B> My Networks 🕸 </B>
