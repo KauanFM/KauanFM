@@ -8,7 +8,7 @@
 
 <B> Frameworks/Ecosystems: </B>
   
-[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,angular)](https://skillicons.dev)
 
 <B> Dependency Manager: </B>
 
