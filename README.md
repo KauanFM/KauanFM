@@ -3,7 +3,7 @@
 <B> Languages: </B>
   
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,ruby,swift,py,ts,js,html,css,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,swift,py,ts,js,html,css,sass)](https://skillicons.dev)
 
 
 <B> Frameworks/Ecosystems: </B>
